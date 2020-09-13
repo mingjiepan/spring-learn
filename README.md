@@ -15,3 +15,11 @@ xml的元数据配置方式，在顶级标签<beans/>下配置<bean>
 * Lazy initialization mode
 * Initialization method
 * Destruction method
+
+
+
+
+对象  BeanDefinition  spring bean
+
+
+
